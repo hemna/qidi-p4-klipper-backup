@@ -1,0 +1,54 @@
+
+[fila]
+enable                         = 1
+
+
+[target]
+extruder                       = 220
+heaterbed                      = 60
+hot                            = 50
+
+
+[babystep]
+value                          = 0.000
+adxl_offset                    = 0.15
+
+
+[oobe]
+enable                         = 0
+
+
+[mks_ethernet]
+enable                         = 0
+
+
+[app_connection]
+method                         = 1
+
+
+[app_server]
+name                           = aws
+
+
+[device_code]
+value                          = v9m773q3
+
+
+[device_state]
+state                          = standby_0.00
+
+
+[total]
+time                           = 19359
+
+
+[app]
+token                          = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuaWNrX25hbWUiOiJoZW1uYSIsInVzZXJfaWQiOiIyODQ3NDc5MTA2OTQ4MzAwODAiLCJpYXQiOjE3NTY1MDkwMDIsImV4cCI6MTc1NzExMzgwMn0.Swf1Va-jtBt9S6Qkqopvcetw9q7ZkjlvsKEvX2UVflE
+username                       = hemna
+avatar                         = 
+
+
+[pops]
+pop_1                          = false
+
+
