@@ -31,15 +31,15 @@ name                           = aws
 
 
 [device_code]
-value                          = 6njlw2k9
+value                          = lt0k13xw
 
 
 [device_state]
-state                          = standby_0.00
+state                          = paused_0.66
 
 
 [total]
-time                           = 22317
+time                           = 23122
 
 
 [app]
