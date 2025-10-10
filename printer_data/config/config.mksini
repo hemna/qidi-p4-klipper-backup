@@ -4,7 +4,7 @@ enable                         = 1
 
 
 [target]
-extruder                       = 220
+extruder                       = 200
 heaterbed                      = 60
 hot                            = 50
 
@@ -31,11 +31,11 @@ name                           = aws
 
 
 [device_code]
-value                          = lt0k13xw
+value                          = ewnyfvag
 
 
 [device_state]
-state                          = paused_0.66
+state                          = standby_0.00
 
 
 [total]
