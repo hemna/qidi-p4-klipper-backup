@@ -4,7 +4,7 @@ enable                         = 1
 
 
 [target]
-extruder                       = 200
+extruder                       = 250
 heaterbed                      = 60
 hot                            = 50
 
@@ -31,7 +31,7 @@ name                           = aws
 
 
 [device_code]
-value                          = s6u7tt0x
+value                          = 01xc37fy
 
 
 [device_state]
