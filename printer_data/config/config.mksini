@@ -35,11 +35,11 @@ value                          = gzqh3naq
 
 
 [device_state]
-state                          = printing_0.18
+state                          = standby_0.00
 
 
 [total]
-time                           = 30624
+time                           = 30949
 
 
 [app]
