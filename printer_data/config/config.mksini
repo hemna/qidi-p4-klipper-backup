@@ -4,7 +4,7 @@ enable                         = 1
 
 
 [target]
-extruder                       = 250
+extruder                       = 100
 heaterbed                      = 60
 hot                            = 60
 
@@ -31,15 +31,15 @@ name                           = aws
 
 
 [device_code]
-value                          = 3aqt0e94
+value                          = gzqh3naq
 
 
 [device_state]
-state                          = complete_1.00
+state                          = printing_0.05
 
 
 [total]
-time                           = 30349
+time                           = 30472
 
 
 [app]
