@@ -35,11 +35,11 @@ value                          = 71rk5cna
 
 
 [device_state]
-state                          = printing_0.57
+state                          = standby_0.00
 
 
 [total]
-time                           = 32270
+time                           = 32595
 
 
 [app]
